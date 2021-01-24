@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body{
+    font-family: 'Shadows Into Light', cursive;
+    background-color: rgb(111, 202, 255);
+    color: rgb(8, 8, 8);
+}
+h2{
+    color: maroon;
+    text-decoration: underline;
+}
+#button{
+    background-color: navy;
+    color: seashell;
+    font-size: 32px;
+}
